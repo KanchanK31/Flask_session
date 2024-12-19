@@ -1,4 +1,3 @@
-# Set the secret key to some random bytes. Keep this really secret!
 from flask import Flask, redirect, request, render_template, make_response
 
 app = Flask(__name__)
